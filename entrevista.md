@@ -51,7 +51,7 @@ onde foram sugeridas novas ideias pelo mesmo.
 
 **Entrevistador :** Não ?
 
-**Cliente :**Não.Acho que seria melhor , no caso , ao invés de ser um fórum , ser um editor de textos. Eu colocar os textos , e ao invés de passar no quadro , eu falava qual era o texto e eles só chegavam e a gente explicava , a gente trabalhava...
+**Cliente :** Não.Acho que seria melhor , no caso , ao invés de ser um fórum , ser um editor de textos. Eu colocar os textos , e ao invés de passar no quadro , eu falava qual era o texto e eles só chegavam e a gente explicava , a gente trabalhava...
 
 **Entrevistador :** Então , é isso.
 
@@ -96,4 +96,4 @@ onde foram sugeridas novas ideias pelo mesmo.
 
  **Entrevistador :** Sim, tá bom.
 
- **Cliente :**Tá. 
+ **Cliente :** Tá. 
