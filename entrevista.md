@@ -63,7 +63,7 @@ onde foram sugeridas novas ideias pelo mesmo.
 
 **Entrevistador :** Então , essa é uma ideia mais ou menos de como funciona , de uma forma de utilizar
 
-**Cliente :**Porque fórum para eles iria "virar Brasil" . Em um debate , iriam debater coisas , iriam colocar coisas numa hora que eu de repente não estaria acessando o coisa  e um pai pega e vê . Em um debate eles postem coisas que não convém . E aí ? Como é que ficaria o professor? "Como um professor faz uma ferramenta , que o professor ... " . Tá tendo discussão na escola agora que o professor põe todas as avaliações na internet , né? Na internet nem todo mundo tem internet , aí ... Entendeu?
+**Cliente :** Porque fórum para eles iria "virar Brasil" . Em um debate , iriam debater coisas , iriam colocar coisas numa hora que eu de repente não estaria acessando o coisa  e um pai pega e vê . Em um debate eles postem coisas que não convém . E aí ? Como é que ficaria o professor? "Como um professor faz uma ferramenta , que o professor ... " . Tá tendo discussão na escola agora que o professor põe todas as avaliações na internet , né? Na internet nem todo mundo tem internet , aí ... Entendeu?
 
 **Entrevistador :** Entendi.
 
