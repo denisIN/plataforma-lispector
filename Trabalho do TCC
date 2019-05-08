@@ -1,0 +1,13 @@
+#Requisitos não funcionais
+
+- Tempo de resposts de 1 segundo ou menos.
+
+O site deverá dar respostas curtas em pouco tempo, para facilitar o diálogo entre o professor e o aluno ou entre qualquer usuário que esteja utilizando o site.
+
+- Interface amigável e intuitiva
+
+Tentaremos deixar o site o mais acessível possível, com dicas e/ou palavras chaves.
+
+- Segurança para armazenar senhas
+
+O site possuirá requisitos confiaveis para armazenar as senhas do usuário com total segurança.
