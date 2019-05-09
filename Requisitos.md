@@ -3,14 +3,14 @@
 
 ## SUMÁRIO
 
-- [RF01] (RF01)
-- [RF02] (RF02)
-- [RF03] (RF03)
-- [RNF01] (RNF01)
-- [RNF02] (RNF02)
-- [RNF03] (RNF03)
+- [RF01](RF01)
+- [RF02](RF02)
+- [RF03](RF03)
+- [RNF01](RNF01)
+- [RNF02](RNF02)
+- [RNF03](RNF03)
 
-#Requisitos Funcionais
+# Requisitos Funcionais
 
 ## RF01
 - Cadastro de Usuários
