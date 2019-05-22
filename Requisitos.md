@@ -44,3 +44,11 @@ Tentaremos deixar o site o mais acessível possível, com dicas e/ou palavras ch
 - Segurança para armazenar senhas
 
 O site possuirá requisitos confiaveis para armazenar as senhas do usuário com total segurança.
+
+## RNF04
+
+- O site deve suportar vários cadastros ao mesmo tempo
+
+## RNF05 
+
+- Deve rodar na Web em qualquer dispositivo com acesso à internet 
