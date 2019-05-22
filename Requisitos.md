@@ -9,6 +9,8 @@
 - [RNF01](#rnf01)
 - [RNF02](#rnf02)
 - [RNF03](#rnf03)
+- [RNF04](#rnf04)
+- [RNF05](#rnf05)
 
 # Requisitos Funcionais
 
