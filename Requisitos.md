@@ -27,7 +27,7 @@ O site terá um recurso para criar avaliações.
 
 O site terá um recurso para enviar documentos
 
-#Requisitos não funcionais
+# Requisitos não funcionais
 
 ## RNF01
 - Tempo de resposts de 1 segundo ou menos.
