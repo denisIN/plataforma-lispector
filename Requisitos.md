@@ -3,9 +3,13 @@
 
 ## SUMÁRIO
 
+### Requisitos Funcionais
 - [RF01](#rf01)
 - [RF02](#rf02)
 - [RF03](#rf03)
+- [RF04](#rf04)
+
+### Requisitos não funcionais
 - [RNF01](#rnf01)
 - [RNF02](#rnf02)
 - [RNF03](#rnf03)
@@ -28,6 +32,10 @@ O site terá um recurso para criar avaliações.
 - Envio de Documentos
 
 O site terá um recurso para enviar documentos
+
+## RF04
+
+- O site deve avisar os alunos quando uma nova tarefa estiver disponível
 
 # Requisitos não funcionais
 
