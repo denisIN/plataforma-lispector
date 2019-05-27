@@ -1,0 +1,18 @@
+# Especificação de Casos de Uso
+
+## CDU 01
+- Cadastro de Alunos
+
+**Atores:** Alunos
+
+**Pré-requisitos:** Ser aluno do CIEP 404 - Clarice Lispector.
+
+**Fluxo Principal:**
+1. Usuário informa Matrícula, Nome, Telefone, Turma, E-mail e Senha.
+2. Sistema verifica se o e-mail é válido; caso o e-mail já esteja cadastrado no sistema, ele retornará um erro; se o e-mail for válido o sistema efetuará o cadastro  
+
+## CDU 02
+
+- Cadastro de Professores
+
+**Atores** 
