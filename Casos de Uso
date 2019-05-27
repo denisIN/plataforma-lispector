@@ -8,11 +8,105 @@
 **Pré-requisitos:** Ser aluno do CIEP 404 - Clarice Lispector.
 
 **Fluxo Principal:**
-1. Usuário informa Matrícula, Nome, Telefone, Turma, E-mail e Senha.
-2. Sistema verifica se o e-mail é válido; caso o e-mail já esteja cadastrado no sistema, ele retornará um erro; se o e-mail for válido o sistema efetuará o cadastro  
+1. Usuário informa Matrícula, Nome, Turma, E-mail e Senha.
+2. Sistema verifica se o e-mail é válido; caso o e-mail já esteja cadastrado no sistema, ele retornará um erro; se o e-mail for válido o sistema efetuará o cadastro do usuário como aluno. O usuário se cadastra pela internet através da página de login. 
 
 ## CDU 02
 
 - Cadastro de Professores
 
-**Atores** 
+**Atores:** Professores
+
+**Pré-requisitos:** Ser Professor do CIEP 404 - Clarice Lispector.
+
+**Fluxo Principal:**
+1. Usuário informa Nome, Matrícula e Email.
+2. Sistema verifica se o e-mail é válido; caso o e-mail já esteja cadastrado no sistema, ele retornará um erro; se o e-mail for válido o sistema efetuará o cadastro da pessoa como Professor.
+
+## CDU 03
+
+- Cadastro de Funcionários
+
+**Atores:** Funcionários
+
+**Pré-requisitos:** Ser funcionário do CIEP 404 - Clarice Lispector.
+
+**Fluxo Principal:**
+1. Usuário informa o Nome e Email
+2. Sistema verifica se o e-mail é valido; caso o e-mail já esteja cadastrado no sistema, ele retornará um erro; se o e-mail for válido o sistema efetuará o cadastro da pessoa como Funcionário.
+
+## CDU 04
+
+- Login
+
+**Atores:** Alunos, Professores e Funcionários
+
+**Pré-condições:** Ser cadastrado no sistema
+
+**Fluxo Principal:**
+
+1. Usuário informa e-mail e senha. Se os dados informados estiverem de acordo com os registrados no sistema, o usuário recebe permissão de acesso de acordo com o cadastro, indo para a tela inicial equivalente a seus respectivos cadastros.
++ Alunos recebem as permissões de acesso de Aluno;
++ Professores recebem as permissões de acesso de Professor;
++ Funcionários recebem as permissões de acesso de Funcionário.
+
+2. Caso o Usuário tenha esquecido sua senha, será redirecionado para a página de Recuperação através do email informado.
+
+## CDU 05
+
+- Gerenciamento de Cadastros
+
+**Atores:** Funcionários
+
+**Pré-Condições:** Ser cadastrado no sistema como Funcionário e estar logado
+
+**Fluxo Principal:**
+1. Sistema disponibiliza as informações dos Alunos e Professores (exceto a senha), não podendo alterá-las, para visualização. O funcionário tem a possibilidade de excluir o Aluno/Professor do sistema.
+
+## CDU 06
+
+- Elaboração de Calendário de Avaliações futuras
+
+**Atores:** Professores
+
+**Pré-Condições:** Ser cadastrado no sistema como Professor e estar logado
+
+**Fluxo Principal:**
+1. O Professor elabora um calendário para cientificação dos alunos quanto às datas das avaliações que estão por vir.
+
+## CDU 07
+
+- Confecção do Mural de Notícias
+
+**Atores:** Funcionários
+
+**Pré-Condições:** Ser cadastrado no sistema como Funcionário e estar logado
+
+**Fluxo Principal:**
+1. Funcionário informa os eventos previstos da instituição ou avisos, seja referente à escola, seja referente à plataforma.
+
+## CDU 08
+
+- Entrega de Questões e Resultados aos alunos (avaliações)
+
+**Atores:** Professores e Alunos
+
+**Pré-Condições:** Estar cadastrado e logado no sistema como Professor ou Aluno
+
+**Fluxo Principal:**
+1. O professor tem acesso às informações do Aluno (nome e turma, apenas), informa as questões a serem propostas a eles e estabelece um tempo limite para elaboração de respostas;
+2. Alunos recebem as questões;
+3. Alunos entregam os gabaritos das questões ao Professor;
+4. Professor entrega resultado conforme gabarito informado.
+
+## CDU 09
+
+- Criação de Fóruns de debate
+
+**Atores:** Alunos, Funcionários e Professores 
+
+**Pré-Condições:** Estar cadastrado como Aluno, Funcionário ou Professore e estar logado no sistema
+
+**Fluxo Principal:**
+1. Qualquer usuário pode criar um fórum de debate online dos mais variados assuntos, com algumas restrições.
+2. Em caso de conteúdo inapropriado, os funcionários têm liberdade para banir da plataforma o usuário que cometeu a infração;
